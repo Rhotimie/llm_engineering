@@ -100,3 +100,27 @@ AI Engineer ideal questions:
     - select models by building prototypes, testing it against the prototypes 
     - customize it with RAG, fine tunning, agentic ai 
     - productionize
+
+livecode bench(open source)
+    - gemini 2.5 pro(***)
+    - gpt oss 20B(******)
+    - qwen2.5 coder 7B
+    - Deepseek coder 2.5 lite
+    - Phi 4 mini
+
+Performance evealuation of GENAI Solution
+    - Model-centric or Technical metrics
+        - Loss (e.g. cros-enthropy)
+        - Perplexity
+        - accuracy
+        - precision, recall, F1 
+        - AUC-ROC 
+    - Business-centric or outcome metrics(***)
+        - KPIs tied to business objectives
+        - ROI 
+        - Improvement in time, cost or resources
+        - customer satisfaction
+        - benchmark comparisons
+
+
+
